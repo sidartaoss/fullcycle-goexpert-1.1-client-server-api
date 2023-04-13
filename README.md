@@ -26,7 +26,7 @@ Este desafio consiste em implementar uma aplicação cliente-servidor:
 
 - O _endpoint_ gerado pelo servidor deve ser: `/cotacao` e servir na porta 8080.
 
-### Solução
+### Execução
 
 1. Abrir o terminal na raiz do projeto;
 
